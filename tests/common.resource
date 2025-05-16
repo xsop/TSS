@@ -1,5 +1,5 @@
 *** Variables ***
-${URL}            file:///C:/Users/Admin/Desktop/TSS/repo/index.html
+${URL}            file:///C:/Users/Admin/Desktop/TSS/TSS/index.html
 ${INPUT}          //input[@placeholder='What needs to be done?']
 ${TODO_ITEM}      //todo-item
 ${COUNT}          //div[@id='count']
